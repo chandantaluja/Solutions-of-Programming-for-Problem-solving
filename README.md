@@ -1,1 +1,1 @@
-# Solutions-of-Programming-for-Problem-solving
+# Solutions of Programming for Problem-solving
